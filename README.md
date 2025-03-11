@@ -8,8 +8,8 @@ This repository contains a complete working build based on the original GitHub p
 ### Server Setup
 
 1. Navigate to the **Bin** folder.
-2. Locate the `.exe` files that are included within the folder.
-3. Simply run the `.exe` file to start the server.
+2. Locate the `Server.bat` files that are included within the folder.
+3. Simply run the `Server.bat` file to start the server.
 
 ### Client Setup
 
