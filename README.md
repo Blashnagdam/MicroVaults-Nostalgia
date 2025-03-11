@@ -30,6 +30,7 @@ This repository contains a complete working build based on the original GitHub p
 
 ## Disclaimer
 
+- Inventory and Boss battle are currently not working.
 - This repository has been uploaded **for educational purposes only**.
 - **It should not be used for commercial use or in any way that violates the law**.
 - The uploader will **not be held responsible for any legal consequences** or other issues that may arise from the use of these files. Use at your own risk.
