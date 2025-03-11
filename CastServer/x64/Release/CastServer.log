@@ -1,0 +1,433 @@
+﻿  Scanning sources for module dependencies...
+  SessionsManager.h
+  RoomTickSyncHandler.h
+  ExplosivesHandler.h
+  Compiling...
+  SessionsManager.h
+  RoomTickSyncHandler.h
+  ExplosivesHandler.h
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/RoomTickSyncHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Network/SessionsManager.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(252,21): warning C5260: the constant variable 'DirectX::XM_PI' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(253,21): warning C5260: the constant variable 'DirectX::XM_2PI' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(254,21): warning C5260: the constant variable 'DirectX::XM_1DIVPI' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(255,21): warning C5260: the constant variable 'DirectX::XM_1DIV2PI' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(256,21): warning C5260: the constant variable 'DirectX::XM_PIDIV2' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(257,21): warning C5260: the constant variable 'DirectX::XM_PIDIV4' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(259,24): warning C5260: the constant variable 'DirectX::XM_SELECT_0' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(260,24): warning C5260: the constant variable 'DirectX::XM_SELECT_1' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(262,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_0X' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(263,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_0Y' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(264,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_0Z' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(265,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_0W' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(266,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_1X' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(267,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_1Y' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(268,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_1Z' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(269,24): warning C5260: the constant variable 'DirectX::XM_PERMUTE_1W' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(271,24): warning C5260: the constant variable 'DirectX::XM_SWIZZLE_X' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(272,24): warning C5260: the constant variable 'DirectX::XM_SWIZZLE_Y' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(273,24): warning C5260: the constant variable 'DirectX::XM_SWIZZLE_Z' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(274,24): warning C5260: the constant variable 'DirectX::XM_SWIZZLE_W' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(276,24): warning C5260: the constant variable 'DirectX::XM_CRMASK_CR6' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(277,24): warning C5260: the constant variable 'DirectX::XM_CRMASK_CR6TRUE' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(278,24): warning C5260: the constant variable 'DirectX::XM_CRMASK_CR6FALSE' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(279,24): warning C5260: the constant variable 'DirectX::XM_CRMASK_CR6BOUNDS' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(284,22): warning C5260: the constant variable 'DirectX::XM_CACHE_LINE_SIZE' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/Handlers/WeaponHandlers/ExplosivesHandler.h')
+  
+  CastServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\CastConnectionHandler.h(15,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\RespawnHandler.h(27,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\InitialMatchLoadingHandler.h(25,63): warning C4838: conversion from 'size_t' to 'uint32_t' requires a narrowing conversion
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\InitialMatchLoadingHandler.h(25,63): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\PlayerPositionHandler.h(24,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\MatchLeaveHandler.h(20,50): warning C4838: conversion from 'const size_t' to 'uint32_t' requires a narrowing conversion
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\MatchLeaveHandler.h(20,50): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\CrashHandler.h(29,50): warning C4838: conversion from 'const size_t' to 'uint32_t' requires a narrowing conversion
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\CrashHandler.h(29,50): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'src/CastServer.cpp')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805: '==': unsafe mix of type 'U' and type 'T' in operation
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         with
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         [
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:             U=bool
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         ]
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         and
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         [
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:             T=uint32_t
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26): warning C4805:         ]
+  (compiling source file 'src/CastServer.cpp')
+      C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(267,26):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\MainServer\include\CdbUtils.h(69,35):
+          see reference to function template instantiation 'std::optional<Main::ConstantDatabase::CdbUtil::ItemTypePricePair> Main::ConstantDatabase::CdbUtil::getItemPriceInternal<Common::ConstantDatabase::CdbItemInfo>(const Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo> &) const' being compiled
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\MainServer\include\CdbUtils.h(268,40):
+          see reference to function template instantiation 'std::optional<T> Common::ConstantDatabase::Cdb<T>::getEntry<uint32_t>(const std::string &,_T0) const' being compiled
+          with
+          [
+              T=Common::ConstantDatabase::CdbItemInfo,
+              _T0=uint32_t
+          ]
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(199,20):
+          see reference to function template instantiation 'void visit_struct::for_each<Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::getEntry::<lambda_1>,const Common::ConstantDatabase::CdbItemInfo&>(S,V &&)' being compiled
+          with
+          [
+              S=const Common::ConstantDatabase::CdbItemInfo &,
+              V=Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::getEntry::<lambda_1>
+          ]
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\visit_struct\visit_struct.hpp(144,42):
+          see reference to function template instantiation 'void visit_struct::traits::visitable<Common::ConstantDatabase::CdbItemInfo,void>::apply<_Ty,const T&>(V &&,S)' being compiled
+          with
+          [
+              _Ty=Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::getEntry::<lambda_1>,
+              T=Common::ConstantDatabase::CdbItemInfo,
+              V=Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::getEntry::<lambda_1>,
+              S=const Common::ConstantDatabase::CdbItemInfo &
+          ]
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Structures\CdbItemInfo.h(88,1):
+          see reference to function template instantiation 'void Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::getEntry::<lambda_1>::operator ()<bool>(const char *,const _T1 &) const' being compiled
+          with
+          [
+              _T1=bool
+          ]
+          C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Cdb.h(203,17):
+          see reference to function template instantiation 'bool Common::ConstantDatabase::Cdb<Common::ConstantDatabase::CdbItemInfo>::containsHelper<_T1,_T0>(U,T) const' being compiled
+          with
+          [
+              _T1=bool,
+              _T0=uint32_t,
+              U=bool,
+              T=uint32_t
+          ]
+  
+  CastServerMain.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Room.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp(120,25): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp(129,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp(149,24): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp(167,25): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp(171,25): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  RoomsManager.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  CastSession.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  SessionsManager.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6660 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CastServer.vcxproj -> C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\x64\CastServer.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

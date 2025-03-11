@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\TradePlayerInfo.obj",
+            "outputs": [
+                "x64\\Release\\TradePlayerInfo.h_2E70F68D4141199F.ifc.dt.module.json",
+                "x64\\Release\\TradePlayerInfo.h_2E70F68D4141199F.ifc.dt.d.json",
+                "x64\\Release\\TradePlayerInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Structures\\TradeSystem\\TradePlayerInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\structures\\tradesystem\\tradeplayerinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

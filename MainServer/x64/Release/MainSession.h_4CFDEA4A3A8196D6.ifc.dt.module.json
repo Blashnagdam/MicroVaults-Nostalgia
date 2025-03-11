@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\MainSession.obj",
+            "outputs": [
+                "x64\\Release\\MainSession.h_4CFDEA4A3A8196D6.ifc.dt.module.json",
+                "x64\\Release\\MainSession.h_4CFDEA4A3A8196D6.ifc.dt.d.json",
+                "x64\\Release\\MainSession.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Network\\MainSession.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\network\\mainsession.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

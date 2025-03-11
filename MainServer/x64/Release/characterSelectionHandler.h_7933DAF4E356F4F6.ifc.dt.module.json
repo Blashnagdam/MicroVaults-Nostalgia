@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\characterSelectionHandler.obj",
+            "outputs": [
+                "x64\\Release\\characterSelectionHandler.h_7933DAF4E356F4F6.ifc.dt.module.json",
+                "x64\\Release\\characterSelectionHandler.h_7933DAF4E356F4F6.ifc.dt.d.json",
+                "x64\\Release\\characterSelectionHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1 - 0.0.0.0 - Completely Working\\MainServer\\include\\Handlers\\Player\\characterSelectionHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1 - 0.0.0.0 - completely working\\mainserver\\include\\handlers\\player\\characterselectionhandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

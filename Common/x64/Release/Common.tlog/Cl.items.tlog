@@ -1,0 +1,11 @@
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ChatCommands\ComplexCommands\OneArgumentCommands\AbstractOneArgNonNumericalCommand.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\AbstractOneArgNonNumericalCommand.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ChatCommands\ComplexCommands\OneArgumentCommands\AbstractOneArgNumericalCommand.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\AbstractOneArgNumericalCommand.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ChatCommands\ComplexCommands\ThreeArgumentCommands\AbstractThreeArgCommand.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\AbstractThreeArgCommand.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ChatCommands\ISimpleCommand.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\ISimpleCommand.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\include\ConstantDatabase\Structures\CdbCapsulePackageInfo.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\CdbCapsulePackageInfo.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Cryptography\Crypt.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\Crypt.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\Packet.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Session.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\Session.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Protocol\CommandHeader.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\CommandHeader.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Protocol\TcpHeader.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\TcpHeader.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Utils\Parser.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\x64\Release\Parser.obj

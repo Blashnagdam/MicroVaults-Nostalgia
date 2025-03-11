@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ExplosivesHandler.obj",
+            "outputs": [
+                "x64\\Release\\ExplosivesHandler.h_29951F3C4F3CD47D.ifc.dt.module.json",
+                "x64\\Release\\ExplosivesHandler.h_29951F3C4F3CD47D.ifc.dt.d.json",
+                "x64\\Release\\ExplosivesHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1 - 0.0.0.0 - Completely Working\\CastServer\\include\\Handlers\\WeaponHandlers\\ExplosivesHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1 - 0.0.0.0 - completely working\\castserver\\include\\handlers\\weaponhandlers\\explosiveshandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

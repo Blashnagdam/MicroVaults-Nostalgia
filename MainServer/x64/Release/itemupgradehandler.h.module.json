@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ItemUpgradeHandler.h.obj",
+            "outputs": [
+                "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\x64\\Release\\ItemUpgradeHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "include\\Handlers\\Item\\ItemUpgradeHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\mainserver\\include\\handlers\\item\\itemupgradehandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

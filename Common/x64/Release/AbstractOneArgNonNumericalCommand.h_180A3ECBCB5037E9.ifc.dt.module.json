@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\AbstractOneArgNonNumericalCommand.obj",
+            "outputs": [
+                "x64\\Release\\AbstractOneArgNonNumericalCommand.h_180A3ECBCB5037E9.ifc.dt.module.json",
+                "x64\\Release\\AbstractOneArgNonNumericalCommand.h_180A3ECBCB5037E9.ifc.dt.d.json",
+                "x64\\Release\\AbstractOneArgNonNumericalCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\Common\\include\\ChatCommands\\ComplexCommands\\OneArgumentCommands\\AbstractOneArgNonNumericalCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\common\\include\\chatcommands\\complexcommands\\oneargumentcommands\\abstractoneargnonnumericalcommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

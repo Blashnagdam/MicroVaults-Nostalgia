@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\CdbCapsulePackageInfo.h.obj",
+            "outputs": [
+                "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\ExternalLibraries\\CommonLib\\Common.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\Common\\x64\\Release\\CdbCapsulePackageInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "include\\ConstantDatabase\\Structures\\CdbCapsulePackageInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\common\\include\\constantdatabase\\structures\\cdbcapsulepackageinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\RoomTickSyncHandler.obj",
+            "outputs": [
+                "x64\\Release\\RoomTickSyncHandler.h_2846E234DA2406D5.ifc.dt.module.json",
+                "x64\\Release\\RoomTickSyncHandler.h_2846E234DA2406D5.ifc.dt.d.json",
+                "x64\\Release\\RoomTickSyncHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\CastServer\\include\\Handlers\\RoomTickSyncHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\castserver\\include\\handlers\\roomticksynchandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

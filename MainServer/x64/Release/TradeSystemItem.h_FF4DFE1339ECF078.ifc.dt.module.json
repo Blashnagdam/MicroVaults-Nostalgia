@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\TradeSystemItem.obj",
+            "outputs": [
+                "x64\\Release\\TradeSystemItem.h_FF4DFE1339ECF078.ifc.dt.module.json",
+                "x64\\Release\\TradeSystemItem.h_FF4DFE1339ECF078.ifc.dt.d.json",
+                "x64\\Release\\TradeSystemItem.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Structures\\TradeSystem\\TradeSystemItem.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\structures\\tradesystem\\tradesystemitem.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

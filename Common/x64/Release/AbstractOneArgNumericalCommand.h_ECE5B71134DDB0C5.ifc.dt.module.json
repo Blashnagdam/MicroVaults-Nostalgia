@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\AbstractOneArgNumericalCommand.obj",
+            "outputs": [
+                "x64\\Release\\AbstractOneArgNumericalCommand.h_ECE5B71134DDB0C5.ifc.dt.module.json",
+                "x64\\Release\\AbstractOneArgNumericalCommand.h_ECE5B71134DDB0C5.ifc.dt.d.json",
+                "x64\\Release\\AbstractOneArgNumericalCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\Common\\include\\ChatCommands\\ComplexCommands\\OneArgumentCommands\\AbstractOneArgNumericalCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\common\\include\\chatcommands\\complexcommands\\oneargumentcommands\\abstractoneargnumericalcommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

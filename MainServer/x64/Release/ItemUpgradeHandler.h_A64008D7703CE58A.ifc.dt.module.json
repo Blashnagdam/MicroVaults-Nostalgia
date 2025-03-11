@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ItemUpgradeHandler.obj",
+            "outputs": [
+                "x64\\Release\\ItemUpgradeHandler.h_A64008D7703CE58A.ifc.dt.module.json",
+                "x64\\Release\\ItemUpgradeHandler.h_A64008D7703CE58A.ifc.dt.d.json",
+                "x64\\Release\\ItemUpgradeHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Handlers\\Item\\ItemUpgradeHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\handlers\\item\\itemupgradehandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

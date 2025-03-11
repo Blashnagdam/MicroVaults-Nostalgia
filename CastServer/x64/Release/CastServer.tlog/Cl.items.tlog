@@ -1,0 +1,9 @@
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\WeaponHandlers\ExplosivesHandler.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\ExplosivesHandler.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Handlers\RoomTickSyncHandler.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\RoomTickSyncHandler.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\include\Network\SessionsManager.h;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\SessionsManager.h.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\CastServer.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\CastServer.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\CastServerMain.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\CastServerMain.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\Room.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\Room.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Classes\RoomsManager.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\RoomsManager.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Network\CastSession.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\CastSession.obj
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\src\Network\SessionsManager.cpp;C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\CastServer\x64\Release\SessionsManager.obj

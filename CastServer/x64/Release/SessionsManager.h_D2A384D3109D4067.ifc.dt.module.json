@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SessionsManager.obj",
+            "outputs": [
+                "x64\\Release\\SessionsManager.h_D2A384D3109D4067.ifc.dt.module.json",
+                "x64\\Release\\SessionsManager.h_D2A384D3109D4067.ifc.dt.d.json",
+                "x64\\Release\\SessionsManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\CastServer\\include\\Network\\SessionsManager.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\castserver\\include\\network\\sessionsmanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

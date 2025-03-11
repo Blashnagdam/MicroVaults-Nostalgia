@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\MainSession.obj",
+            "outputs": [
+                "x64\\Release\\MainSession.h_96663AE1DE3C715B.ifc.dt.module.json",
+                "x64\\Release\\MainSession.h_96663AE1DE3C715B.ifc.dt.d.json",
+                "x64\\Release\\MainSession.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\include\\Network\\MainSession.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\mainserver\\include\\network\\mainsession.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

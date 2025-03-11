@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\CdbCapsulePackageInfo.obj",
+            "outputs": [
+                "x64\\Release\\CdbCapsulePackageInfo.h_CC50D68A4E2F7591.ifc.dt.module.json",
+                "x64\\Release\\CdbCapsulePackageInfo.h_CC50D68A4E2F7591.ifc.dt.d.json",
+                "x64\\Release\\CdbCapsulePackageInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1 - 0.0.0.0 - Completely Working\\Common\\include\\ConstantDatabase\\Structures\\CdbCapsulePackageInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1 - 0.0.0.0 - completely working\\common\\include\\constantdatabase\\structures\\cdbcapsulepackageinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

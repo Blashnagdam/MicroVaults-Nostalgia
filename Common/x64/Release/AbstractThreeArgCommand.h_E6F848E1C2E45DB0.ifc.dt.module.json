@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\AbstractThreeArgCommand.obj",
+            "outputs": [
+                "x64\\Release\\AbstractThreeArgCommand.h_E6F848E1C2E45DB0.ifc.dt.module.json",
+                "x64\\Release\\AbstractThreeArgCommand.h_E6F848E1C2E45DB0.ifc.dt.d.json",
+                "x64\\Release\\AbstractThreeArgCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\Common\\include\\ChatCommands\\ComplexCommands\\ThreeArgumentCommands\\AbstractThreeArgCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\common\\include\\chatcommands\\complexcommands\\threeargumentcommands\\abstractthreeargcommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\AbstractThreeArgCommand.obj",
+            "outputs": [
+                "x64\\Release\\AbstractThreeArgCommand.h_2654D53CB4800F53.ifc.dt.module.json",
+                "x64\\Release\\AbstractThreeArgCommand.h_2654D53CB4800F53.ifc.dt.d.json",
+                "x64\\Release\\AbstractThreeArgCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\Common\\include\\ChatCommands\\ComplexCommands\\ThreeArgumentCommands\\AbstractThreeArgCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\common\\include\\chatcommands\\complexcommands\\threeargumentcommands\\abstractthreeargcommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

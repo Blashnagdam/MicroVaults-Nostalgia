@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SetNickname.obj",
+            "outputs": [
+                "x64\\Release\\SetNickname.h_56C3FF1097B51BEA.ifc.dt.module.json",
+                "x64\\Release\\SetNickname.h_56C3FF1097B51BEA.ifc.dt.d.json",
+                "x64\\Release\\SetNickname.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\ChatCommands\\ComplexCommands\\OneArgumentCommands\\SetNickname.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\chatcommands\\complexcommands\\oneargumentcommands\\setnickname.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

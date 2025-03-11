@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\SingleLobbyList.obj",
+            "outputs": [
+                "x64\\Debug\\SingleLobbyList.h_E557EF3511C5C5D2.ifc.dt.module.json",
+                "x64\\Debug\\SingleLobbyList.h_E557EF3511C5C5D2.ifc.dt.d.json",
+                "x64\\Debug\\SingleLobbyList.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\include\\Structures\\PlayerLists\\SingleLobbyList.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\mainserver\\include\\structures\\playerlists\\singlelobbylist.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

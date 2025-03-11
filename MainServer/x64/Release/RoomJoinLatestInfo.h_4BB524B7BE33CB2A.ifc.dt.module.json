@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\RoomJoinLatestInfo.obj",
+            "outputs": [
+                "x64\\Release\\RoomJoinLatestInfo.h_4BB524B7BE33CB2A.ifc.dt.module.json",
+                "x64\\Release\\RoomJoinLatestInfo.h_4BB524B7BE33CB2A.ifc.dt.d.json",
+                "x64\\Release\\RoomJoinLatestInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Structures\\Room\\RoomJoinLatestInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\structures\\room\\roomjoinlatestinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

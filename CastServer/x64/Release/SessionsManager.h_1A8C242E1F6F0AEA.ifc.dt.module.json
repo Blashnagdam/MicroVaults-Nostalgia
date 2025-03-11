@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SessionsManager.obj",
+            "outputs": [
+                "x64\\Release\\SessionsManager.h_1A8C242E1F6F0AEA.ifc.dt.module.json",
+                "x64\\Release\\SessionsManager.h_1A8C242E1F6F0AEA.ifc.dt.d.json",
+                "x64\\Release\\SessionsManager.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\CastServer\\include\\Network\\SessionsManager.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\castserver\\include\\network\\sessionsmanager.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

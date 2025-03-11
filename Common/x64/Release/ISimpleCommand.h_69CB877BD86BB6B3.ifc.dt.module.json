@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ISimpleCommand.obj",
+            "outputs": [
+                "x64\\Release\\ISimpleCommand.h_69CB877BD86BB6B3.ifc.dt.module.json",
+                "x64\\Release\\ISimpleCommand.h_69CB877BD86BB6B3.ifc.dt.d.json",
+                "x64\\Release\\ISimpleCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\Common\\include\\ChatCommands\\ISimpleCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\common\\include\\chatcommands\\isimplecommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

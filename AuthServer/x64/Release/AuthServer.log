@@ -1,0 +1,60 @@
+﻿  AuthServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  DbPlayerInfo.cpp
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Exception.h(26,45): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'SQLite::Exception'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Exception.h(26,21):
+      see declaration of 'SQLite::Exception'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Statement.h(700,29): warning C4251: 'SQLite::Statement::mQuery': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SQLite::Statement'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(522,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Statement.h(702,29): warning C4251: 'SQLite::Statement::mpPreparedStatement': 'std::shared_ptr<sqlite3_stmt>' needs to have dll-interface to be used by clients of 'SQLite::Statement'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
+      see declaration of 'std::shared_ptr<sqlite3_stmt>'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Statement.h(708,41): warning C4251: 'SQLite::Statement::mColumnNames': 'std::map<std::string,int,std::less<std::string>,std::allocator<std::pair<const std::string,int>>>' needs to have dll-interface to be used by clients of 'SQLite::Statement'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\map(72,7):
+      see declaration of 'std::map<std::string,int,std::less<std::string>,std::allocator<std::pair<const std::string,int>>>'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Column.h(231,33): warning C4251: 'SQLite::Column::mStmtPtr': 'std::shared_ptr<sqlite3_stmt>' needs to have dll-interface to be used by clients of 'SQLite::Column'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
+      see declaration of 'std::shared_ptr<sqlite3_stmt>'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Database.h(620,41): warning C4251: 'SQLite::Database::mSQLitePtr': 'std::unique_ptr<sqlite3,SQLite::Database::Deleter>' needs to have dll-interface to be used by clients of 'SQLite::Database'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3332,7):
+      see declaration of 'std::unique_ptr<sqlite3,SQLite::Database::Deleter>'
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\SQLiteCpp\Database.h(621,41): warning C4251: 'SQLite::Database::mFilename': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SQLite::Database'
+  (compiling source file 'src/Database/DbPlayerInfo.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(522,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+  main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  AuthSession.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4069 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AuthServer.vcxproj -> C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\x64\AuthServer.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

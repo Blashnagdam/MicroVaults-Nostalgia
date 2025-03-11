@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SingleLobbyList.obj",
+            "outputs": [
+                "x64\\Release\\SingleLobbyList.h_F238126895CB34FD.ifc.dt.module.json",
+                "x64\\Release\\SingleLobbyList.h_F238126895CB34FD.ifc.dt.d.json",
+                "x64\\Release\\SingleLobbyList.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\MainServer\\include\\Structures\\PlayerLists\\SingleLobbyList.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\mainserver\\include\\structures\\playerlists\\singlelobbylist.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\CdbCapsulePackageInfo.obj",
+            "outputs": [
+                "x64\\Release\\CdbCapsulePackageInfo.h_A8FA1EED4F9231FB.ifc.dt.module.json",
+                "x64\\Release\\CdbCapsulePackageInfo.h_A8FA1EED4F9231FB.ifc.dt.d.json",
+                "x64\\Release\\CdbCapsulePackageInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\Common\\include\\ConstantDatabase\\Structures\\CdbCapsulePackageInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\common\\include\\constantdatabase\\structures\\cdbcapsulepackageinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

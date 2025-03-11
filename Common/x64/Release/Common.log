@@ -1,0 +1,333 @@
+﻿  Scanning sources for module dependencies...
+  CdbCapsulePackageInfo.h
+  AbstractOneArgNumericalCommand.h
+  AbstractThreeArgCommand.h
+  AbstractOneArgNonNumericalCommand.h
+  ISimpleCommand.h
+  Compiling...
+  AbstractOneArgNonNumericalCommand.h
+  AbstractThreeArgCommand.h
+  AbstractOneArgNumericalCommand.h
+  ISimpleCommand.h
+  CdbCapsulePackageInfo.h
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ISimpleCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\context.hpp(141,21): warning C5260: the constant variable 'asio::execution::context' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking.hpp(895,22): warning C5260: the constant variable 'asio::execution::blocking' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\relationship.hpp(545,26): warning C5260: the constant variable 'asio::execution::relationship' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\allocator.hpp(228,29): warning C5260: the constant variable 'asio::execution::allocator' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\mapping.hpp(736,21): warning C5260: the constant variable 'asio::execution::mapping' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\outstanding_work.hpp(547,30): warning C5260: the constant variable 'asio::execution::outstanding_work' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(187,14): warning C5260: the constant variable 'asio::detail::invalid_socket' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(188,11): warning C5260: the constant variable 'asio::detail::socket_error_retval' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\uses_executor.hpp(48,26): warning C5260: the constant variable 'asio::executor_arg' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_awaitable.hpp(150,29): warning C5260: the constant variable 'asio::use_awaitable' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\deferred.hpp(707,22): warning C5260: the constant variable 'asio::deferred' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detached.hpp(97,22): warning C5260: the constant variable 'asio::detached' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNonNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\use_future.hpp(148,26): warning C5260: the constant variable 'asio::use_future' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\blocking_adaptation.hpp(721,33): warning C5260: the constant variable 'asio::execution::blocking_adaptation' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\execution\occupancy.hpp(134,23): warning C5260: the constant variable 'asio::execution::occupancy' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(189,11): warning C5260: the constant variable 'asio::detail::max_addr_v4_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(190,11): warning C5260: the constant variable 'asio::detail::max_addr_v6_str_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(288,11): warning C5260: the constant variable 'asio::detail::max_iov_len' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(418,11): warning C5260: the constant variable 'asio::detail::custom_socket_option_level' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(419,11): warning C5260: the constant variable 'asio::detail::enable_connection_aborted_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\detail\socket_types.hpp(420,11): warning C5260: the constant variable 'asio::detail::always_fail_option' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/ThreeArgumentCommands/AbstractThreeArgCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\error.hpp(372,29): warning C5260: the constant variable 'asio::resolver_errc::try_again' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(35,22): warning C5260: the constant variable 'asio::this_coro::executor' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\vcpkg\vcpkg_installed\x64-windows\include\asio\this_coro.hpp(60,32): warning C5260: the constant variable 'asio::this_coro::cancellation_state' has internal linkage in an included header file context, but external linkage in imported header unit context; consider declaring it 'inline' as well if it will be shared across translation units, or 'static' to express intent to use it local to this translation unit
+  (compiling source file 'include/ChatCommands/ComplexCommands/OneArgumentCommands/AbstractOneArgNumericalCommand.h')
+  
+  Crypt.cpp
+  Packet.cpp
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp(27,94): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp(227,104): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp(232,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp(237,104): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Packet.cpp(242,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Session.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\Common\src\Network\Session.cpp(203,31): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  CommandHeader.cpp
+  TcpHeader.cpp
+  Parser.cpp
+  Common.vcxproj -> C:\Users\Blashnagdam\Desktop\MicrovoltsEmulator-mv_1.1\ExternalLibraries\CommonLib\Common.lib

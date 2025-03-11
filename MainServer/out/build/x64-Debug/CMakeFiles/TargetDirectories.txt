@@ -1,0 +1,3 @@
+C:/Users/Blashnagdam/Desktop/MicrovoltsEmulator-mv_1.1/MainServer/out/build/x64-Debug/CMakeFiles/MainServer.dir
+C:/Users/Blashnagdam/Desktop/MicrovoltsEmulator-mv_1.1/MainServer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Blashnagdam/Desktop/MicrovoltsEmulator-mv_1.1/MainServer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

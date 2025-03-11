@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\RoomJoinLatestInfo.obj",
+            "outputs": [
+                "x64\\Release\\RoomJoinLatestInfo.h_241D7E8BDADD8985.ifc.dt.module.json",
+                "x64\\Release\\RoomJoinLatestInfo.h_241D7E8BDADD8985.ifc.dt.d.json",
+                "x64\\Release\\RoomJoinLatestInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\include\\Structures\\Room\\RoomJoinLatestInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\mainserver\\include\\structures\\room\\roomjoinlatestinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

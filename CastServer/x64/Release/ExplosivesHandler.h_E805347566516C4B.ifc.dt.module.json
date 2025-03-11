@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ExplosivesHandler.obj",
+            "outputs": [
+                "x64\\Release\\ExplosivesHandler.h_E805347566516C4B.ifc.dt.module.json",
+                "x64\\Release\\ExplosivesHandler.h_E805347566516C4B.ifc.dt.d.json",
+                "x64\\Release\\ExplosivesHandler.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\CastServer\\include\\Handlers\\WeaponHandlers\\ExplosivesHandler.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\castserver\\include\\handlers\\weaponhandlers\\explosiveshandler.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

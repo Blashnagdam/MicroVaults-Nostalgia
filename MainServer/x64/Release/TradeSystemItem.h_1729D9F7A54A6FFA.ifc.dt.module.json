@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\TradeSystemItem.obj",
+            "outputs": [
+                "x64\\Release\\TradeSystemItem.h_1729D9F7A54A6FFA.ifc.dt.module.json",
+                "x64\\Release\\TradeSystemItem.h_1729D9F7A54A6FFA.ifc.dt.d.json",
+                "x64\\Release\\TradeSystemItem.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1 - 0.0.0.0 - Completely Working\\MainServer\\include\\Structures\\TradeSystem\\TradeSystemItem.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1 - 0.0.0.0 - completely working\\mainserver\\include\\structures\\tradesystem\\tradesystemitem.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

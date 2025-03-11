@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\ISimpleCommand.obj",
+            "outputs": [
+                "x64\\Release\\ISimpleCommand.h_50CE3BDE36057A6E.ifc.dt.module.json",
+                "x64\\Release\\ISimpleCommand.h_50CE3BDE36057A6E.ifc.dt.d.json",
+                "x64\\Release\\ISimpleCommand.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\Nieuwe map (2)\\server\\Common\\include\\ChatCommands\\ISimpleCommand.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\nieuwe map (2)\\server\\common\\include\\chatcommands\\isimplecommand.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

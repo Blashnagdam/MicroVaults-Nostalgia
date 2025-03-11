@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\TradePlayerInfo.obj",
+            "outputs": [
+                "x64\\Release\\TradePlayerInfo.h_EB454B2804646700.ifc.dt.module.json",
+                "x64\\Release\\TradePlayerInfo.h_EB454B2804646700.ifc.dt.d.json",
+                "x64\\Release\\TradePlayerInfo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Blashnagdam\\Desktop\\MicrovoltsEmulator-mv_1.1\\MainServer\\include\\Structures\\TradeSystem\\TradePlayerInfo.h",
+                    "source-path": "c:\\users\\blashnagdam\\desktop\\microvoltsemulator-mv_1.1\\mainserver\\include\\structures\\tradesystem\\tradeplayerinfo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
